@@ -216,9 +216,9 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 📬 Contact
+For issues, suggestions, or questions, please open an issue on the repository.
 
-For issues, suggestions, or questions, open an [issue](https://github.com/your-username/sphere-of-the-ancients/issues) or contact the maintainer at `your-email@example.com`.
-
+You can also contact the maintainer via GitHub Profile – ZeyadArafa.
 ---
 
 **Thank you for exploring *Sphere of the Ancients*!**
