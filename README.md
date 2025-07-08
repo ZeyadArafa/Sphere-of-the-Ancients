@@ -13,16 +13,17 @@ Built using Unity’s **Built-in Render Pipeline**, the game delivers a dynamic 
 
 ## 📑 Table of Contents
 
-* [Overview](#overview)
-* [Key Features](#key-features)
-* [Running the Executable](#running-the-executable)
-* [Development Setup](#development-setup)
-* [Usage](#usage)
-* [Controls](#controls)
-* [Architecture](#architecture)
-* [Contributing](#contributing)
-* [License](#license)
-* [Contact](#contact)
+- [Overview](#overview)
+- [Key Features](#key-features)
+- [Running the Executable](#running-the-executable)
+- [Development Setup](#development-setup)
+- [Usage](#usage)
+- [Controls](#controls)
+- [Architecture](#architecture)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
 
 ---
 
@@ -216,10 +217,14 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## 📬 Contact
-For issues, suggestions, or questions, please open an issue on the repository.
 
-You can also contact the maintainer via GitHub Profile – ZeyadArafa.
+For questions, suggestions, or bug reports:
+
+* [Open an issue](https://github.com/ZeyadArafa/sphere-of-the-ancients/issues)
+* Contact the maintainer: [ZeyadArafa on GitHub](https://github.com/ZeyadArafa)
+
 ---
+
 
 **Thank you for exploring *Sphere of the Ancients*!**
 Happy climbing!
